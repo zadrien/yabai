@@ -1,0 +1,2 @@
+# yabai
+Yabai MacOS configuration
